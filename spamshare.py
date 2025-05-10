@@ -10,13 +10,13 @@ from rich.console import Console
 # Dito lang pede mo palitan
 # dont change the key name (e.g owner,facebook,etc.), value lang palitan mo
 info = {
-  "owner": 'Astro Ksks',
-  "facebook": 'https://www.facebook.com/christhenoob13',
+  "owner": 'Azvi Geior',
+  "facebook": 'https://www.facebook.com/profile.php?id=61565211706543',
   "tool": 'Spamshare',
   "version": '1',
 }
 
-# simuka dito wag mo na ibahin baka masira mo pa code
+# simula dito wag mo na ibahin baka masira mo pa code
 config = {
   'cookies': '',
   'post': ''
